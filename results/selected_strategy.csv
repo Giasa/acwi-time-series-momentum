@@ -1,0 +1,2 @@
+lookback_trading_days,holding_period,selection_period_start,selection_period_end,selection_rule
+63,Q,2003-01-02,2019-12-31,Highest development-period Sharpe ratio

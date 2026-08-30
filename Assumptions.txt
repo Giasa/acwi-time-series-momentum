@@ -1,0 +1,8 @@
+Return-series conventions
+
+- Gross total return reinvests dividends before withholding taxes.
+- Net total return reinvests dividends after withholding taxes.
+- Price return excludes dividends.
+
+The study uses MSCI ACWI gross total return levels for signal generation and
+net total return levels as the realized equity-return proxy.
